@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+## Olá Olá 👋
 
 <!--
 **Miguel-Senna/Miguel-Senna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Sou o **Miguel Senna** *(ele/dele)*
+- Técnico em informática pelo CEFET-MG (cursando)
+- Proficiência em: Python, C, JS, HTML, CSS & C#
+- Atualmente trabalhando com aplicação web baseada em three.js co back-end SQLite
+
+- email para contato: Miguel.SennaLoboMendes@gmail.com
